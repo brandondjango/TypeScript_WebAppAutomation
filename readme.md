@@ -1,3 +1,5 @@
+# TypeScript_WebAppAutomation
+
 # Instructions to Setup Cucumber typescript Project with Selenium
 
 ## Initialize your project
@@ -60,4 +62,4 @@ Let's configure typescript now! To do so, create the file tsconfig.json in your 
 
 
 
-# TypeScript_WebAppAutomation
+
